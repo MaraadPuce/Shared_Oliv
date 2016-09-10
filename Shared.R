@@ -1,6 +1,6 @@
 ## modified w simon and Oliv (merged version)
 ## blabalabal
-## titi toto
+## titi toto // modif du remote
 ## bli bou
 
 ## youp // modif locale
